@@ -1,0 +1,13 @@
+Package: inegiChartR
+Type: Package
+Title: Easily create charts from INEGI data
+Version: 0.9.0
+Date: 2016-06-08
+Author: Eduardo Flores
+Maintainer: Eduardo Flores <eduardo@enelmargen.org>
+Description: Provides functions to create charts and analyses from inegiR data.
+Encoding: UTF-8
+License: CC0
+Imports:
+    highcharter
+RoxygenNote: 5.0.1
